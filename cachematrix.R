@@ -1,6 +1,6 @@
 
 #Together, makeCacheMatrix and cacheSolve calculate the inverse of a matrix and store it in a variable. 
-#So long as the matrix of interest remains unchanged, the inverse stored in this 'cache' variable will be used 
+#So long as the input matrix remains unchanged, the inverse stored in this 'cache' variable will be used 
 #for all subsequent requests for the inverse, rather than undertaking costliy re-computation each time. 
 
 
